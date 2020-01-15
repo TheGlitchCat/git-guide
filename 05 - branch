@@ -1,0 +1,11 @@
+git branch <b name> 
+git checkout <b name>
+git push origin <b name> 
+
+git log --all 
+git checkout <hash>
+
+git show-branch 
+git show-branch --all 
+
+gitk
