@@ -1,11 +1,6 @@
-# Git Course
+# Git Course (Is not a course)
 
-
-
-### Basic Commands
-```
-git status
-```
+this is a guide repository for git. 
 
 ### References
 
