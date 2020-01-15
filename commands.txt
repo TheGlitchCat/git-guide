@@ -1,11 +1,19 @@
+git clone       - clone repository
+git init        - initialize git 
 git status      - status of files  
 git add         - add files
 git commit      - save changes
 git push        - upload to repository
-git remote      - repository origin 
+git remote      - remote repository 
 git rm          - remove change 
 git config      - global config
 git log         - files changes
 git show        - shows one or more objects (blobs, trees, tags and commits)
 git diff        - Show changes between the working tree and the index or a tree
-
+git reset       - back in time (delete changes)
+git branch      - create a branch 
+git checkout    - branch change
+git merge       - merge a branch or changes
+git rebase      - is like a merge but you can select what changes you want to add
+git fetch       - brings last changes from remote repository
+git pull        - brings last changes and merge with local repository
