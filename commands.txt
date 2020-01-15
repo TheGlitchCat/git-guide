@@ -1,9 +1,11 @@
-git status 
-git add 
-git commit 
-git push 
-git remote 
-git rm 
-git config 
-git log
-git show 
+git status      - status of files  
+git add         - add files
+git commit      - save changes
+git push        - upload to repository
+git remote      - repository origin 
+git rm          - remove change 
+git config      - global config
+git log         - files changes
+git show        - shows one or more objects (blobs, trees, tags and commits)
+git diff        - Show changes between the working tree and the index or a tree
+
