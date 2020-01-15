@@ -1,0 +1,3 @@
+git remote add origin <url>
+git remote remove origin 
+git remote set-url origin <url>

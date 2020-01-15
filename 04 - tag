@@ -1,0 +1,5 @@
+git log --all
+git tag -a <tag name> -m "<msg>" <hash>
+git show-ref --tags 
+git push origin --tags 
+git tag -d <tag name>

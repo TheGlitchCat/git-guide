@@ -1,0 +1,3 @@
+git log <file>
+git log --all --graph --decorate --oneline 
+git show 
