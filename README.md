@@ -1,4 +1,4 @@
-# Git Course (Is not a course)
+# Git Guide (Is not a course)
 
 this is a guide repository for git. 
 
