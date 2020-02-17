@@ -1,3 +1,4 @@
-git remote add origin <url>
-git remote remove origin 
-git remote set-url origin <url>
+git remote add origin <url>     -> Add remote repository
+git remote remove origin        -> remove remote repository
+git remote set-url origin <url> -> change remote repository 
+

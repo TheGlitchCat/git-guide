@@ -18,3 +18,10 @@ git rebase      - is like a merge but you can select what changes you want to ad
 git fetch       - brings last changes from remote repository
 git pull        - brings last changes and merge with local repository
 git tag         - add tag to a hash 
+git stash       - Save the changes in memory 
+git clean       - clear the repository of trash files
+git cherry-pick - brings a specific commit to master
+git reflog      - show all history of commits
+git reset       - reset to a specific commit <hash>
+git grep        - find a word 
+ 

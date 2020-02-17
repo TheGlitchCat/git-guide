@@ -1,5 +1,5 @@
 git status -> to see actual status
-git add . -> to add all files or git add "<filanema>" to add one file 
+git add . -> to add all files or git add "<filename>" to add one file 
 git commit -m "initial commit" -> -m to write a msg 
 git commit -am "<msg>" -> optional 
 git push -> upload files to repository 

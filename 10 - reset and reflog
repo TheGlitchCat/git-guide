@@ -1,0 +1,3 @@
+git reflog                   -> show all history of heads
+git reset --soft <hash>      -> keep changes of staging
+git reset --hard <hash>      -> delete everything 

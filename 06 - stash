@@ -1,0 +1,9 @@
+git stash           -> Save the changes in memory
+git stash pop       -> load the changes in memory
+
+or 
+
+git stash                       -> save changes
+git stash branch <branch_name>  -> take the changes to branch
+
+git stash list -> show stash list 

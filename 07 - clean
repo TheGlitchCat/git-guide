@@ -1,0 +1,2 @@
+git clean --dry-run     -> clean trash 
+git clean -f            -> clean files

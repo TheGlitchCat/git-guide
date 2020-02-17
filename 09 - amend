@@ -1,0 +1,2 @@
+git commit -m "<msg>"   -> create commit 
+git commit --amend      -> to fix the previous commit 

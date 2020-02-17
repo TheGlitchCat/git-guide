@@ -1,3 +1,4 @@
 git log <file>
 git log --all --graph --decorate --oneline 
 git show 
+git log -S "<word>"     -> show me the word used into the history

@@ -1,6 +1,6 @@
-git branch <b name> 
-git checkout <b name>
-git push origin <b name> 
+git branch <b_name>         -> create a branch 
+git checkout <b_name>       -> change to branch
+git push origin <b_name>    -> upload changes 
 
 git log --all 
 git checkout <hash>
@@ -8,4 +8,5 @@ git checkout <hash>
 git show-branch 
 git show-branch --all 
 
-gitk
+gitk -> show all history
+

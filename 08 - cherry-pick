@@ -1,0 +1,1 @@
+git cherry-pick <hash> -> bring old commit of a branch to master

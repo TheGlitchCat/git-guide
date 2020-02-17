@@ -1,0 +1,3 @@
+git grep <word>         -> show how many times i used <word>
+git grep -n <word>      -> above and add the lines where i used 
+git grep -c <word>      -> count the word in files 
