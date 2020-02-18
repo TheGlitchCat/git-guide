@@ -1,4 +1,5 @@
 git branch <b_name>         -> create a branch 
+git branch -r               -> remote branches
 git checkout <b_name>       -> change to branch
 git push origin <b_name>    -> upload changes 
 

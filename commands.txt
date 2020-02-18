@@ -24,4 +24,4 @@ git cherry-pick - brings a specific commit to master
 git reflog      - show all history of commits
 git reset       - reset to a specific commit <hash>
 git grep        - find a word 
- 
+git shortlog    - show commit by collaborators  

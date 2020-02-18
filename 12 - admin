@@ -1,0 +1,8 @@
+git shortlog                 -> show each commit by collaborators
+git shortlog -sn             -> show how many commits are by collaborators
+git shortlog -sn --all       -> show all commits 
+git shortlog -sn --no-merges -> without merges
+
+git config --global alias.stats "all command" -> create my own command
+git blame <file>    -> changes in file 
+git blame <file> -L<from>,<to> -> changes in file between lines
